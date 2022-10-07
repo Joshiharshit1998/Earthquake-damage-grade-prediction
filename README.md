@@ -1,2 +1,3 @@
 # Earthquake-damage-grade-prediction
-Predicting whether a building will be severely damaged or not in a similar type earthquake
+Dataset used is 2015 Nepal earthquake data.
+Predicting whether a building will be severely damaged or not in a similar type Earthquake.
